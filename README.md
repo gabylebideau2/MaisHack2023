@@ -1,1 +1,1 @@
-# MaisHack2023
+# MaisHack2023_Minervai
